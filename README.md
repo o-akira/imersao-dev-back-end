@@ -3,7 +3,7 @@ Neste repositório, estarei compartilhando o meu aprendizado dentro do curso "Im
 
 ## Tecnologias Utilizadas:
 
-Node.js
-Express.js
-MongoDB
-API do Gemini
+- Node.js
+- Express.js
+- MongoDB
+- API do Gemini
